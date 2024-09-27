@@ -1,6 +1,6 @@
 # Web-Development-Dundee
 
-## Test Repo
+## Unit 02
 
 Activity 01 - [Adding Semantic Information](https://aaqil.me/Web-Development-Dundee/unit_02/activity_01.html)
 
